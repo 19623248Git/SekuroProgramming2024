@@ -1,0 +1,2 @@
+package
+-DCATKIN_DEVEL_PREFIX=/root/TPOST4/ROS_Service/devel -DCMAKE_INSTALL_PREFIX=/root/TPOST4/ROS_Service/install -G Unix Makefiles

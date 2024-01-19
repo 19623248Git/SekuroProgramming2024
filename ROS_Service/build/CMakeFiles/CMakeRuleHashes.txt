@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+56ce96733f4331d905a47d34081e1dca /root/TPOST4/ROS_Service/devel/include/package/MagCalc.h
+91d9b6488d1c2da14c1db8d94d8a45c7 /root/TPOST4/ROS_Service/devel/lib/python3/dist-packages/package/srv/_MagCalc.py
+bcecfe9a847e9160678f53ca4b62e1b2 /root/TPOST4/ROS_Service/devel/lib/python3/dist-packages/package/srv/__init__.py
+99b009d927c9bd545bd68abf63ed582c /root/TPOST4/ROS_Service/devel/share/common-lisp/ros/package/srv/MagCalc.lisp
+d3588e144773e94b9f2f14e2b1123f8a /root/TPOST4/ROS_Service/devel/share/gennodejs/ros/package/srv/MagCalc.js
+057d76b5722b577f0d8ef63e140b7f0f /root/TPOST4/ROS_Service/devel/share/roseus/ros/package/manifest.l
+4f106d2750942450ee9cddf4e29348c4 /root/TPOST4/ROS_Service/devel/share/roseus/ros/package/srv/MagCalc.l
+d04ac4726cbb56156f2c04897e548540 CMakeFiles/clean_test_results
+fdd635b4a9301735d501ba1122954230 package/CMakeFiles/_package_generate_messages_check_deps_MagCalc
+a1ab9d49a0b9413eff2e18a105c30b81 package/CMakeFiles/package_generate_messages_cpp
+a1ab9d49a0b9413eff2e18a105c30b81 package/CMakeFiles/package_generate_messages_eus
+a1ab9d49a0b9413eff2e18a105c30b81 package/CMakeFiles/package_generate_messages_lisp
+a1ab9d49a0b9413eff2e18a105c30b81 package/CMakeFiles/package_generate_messages_nodejs
+a1ab9d49a0b9413eff2e18a105c30b81 package/CMakeFiles/package_generate_messages_py
